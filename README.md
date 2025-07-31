@@ -62,7 +62,7 @@ Input: "Extract the latest 5 articles from a news site with titles and scores"
 ### Prerequisites
 
 - Node.js 18+
-- Google Gemini API key ([Get one here](https://ai.google.dev/))
+- Google Gemini API key ([Get one here](https://aistudio.google.com/))
 
 ### Installation
 
@@ -266,28 +266,3 @@ We welcome contributions! Here's how:
 - Follow Svelte/SvelteKit best practices
 - Add tests for new features
 - Update documentation
-
-<!-- ## 📝 **License**
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-## 🆘 **Support**
-
-- 🐛 **Issues**: [GitHub Issues](https://github.com/your-username/smartscrape-agent/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/your-username/smartscrape-agent/discussions)
-- 📧 **Email**: your-email@example.com
-
-## 🎯 **Roadmap**
-
-- [ ] **Scheduled scraping**: Automated data collection
-- [ ] **API integrations**: Webhook support
-- [ ] **Data visualization**: Charts and graphs
-- [ ] **Multi-format export**: JSON, XML, Excel
-- [ ] **Cloud deployment**: Docker containers
-- [ ] **Team collaboration**: Shared workspaces
-
---- -->
-
-**⭐ Star this repo if SmartScrape Agent helped you extract data efficiently!**
-
-_Built with ❤️ using SvelteKit, Gemini AI, and modern web technologies._
