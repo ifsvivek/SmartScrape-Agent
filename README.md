@@ -68,8 +68,9 @@ Input: "Extract the latest 5 articles from a news site with titles and scores"
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
-cd smartscrape-agent
+git clone https://github.com/ifsvivek/SmartScrape-Agent
+cd SmartScrape-Agent
+
 
 # Install dependencies
 npm install
